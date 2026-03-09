@@ -82,7 +82,7 @@ with the selected configuration highlighted.
 
 Clone the repository:
 
-git clone https://github.com/yourusername/llm-scaling-law-simulator
+git clone https://github.com/Iamyulx/llm-scaling-law-simulator
 cd llm-scaling-law-simulator
 
 Install dependencies:
